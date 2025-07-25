@@ -164,6 +164,33 @@ li{
 
 /* Worksの画像 */
 
+/* Worksページ */
+.example{
+  display: flex;
+}
+
+.example img{
+  max-width: 400px;
+}
+
+.example h4{
+  text-align: center;
+}
+
+.sawayaka{
+  max-width: 400px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+.portfolioex{
+  max-width: 400px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+
+
 /* Skill */
 .Skill{
     display: flex;
