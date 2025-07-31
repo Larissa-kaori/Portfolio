@@ -189,6 +189,12 @@ li{
   margin-left: 50px;
 }
 
+.Interiorshopsite{
+  max-width: 400px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
 
 
 /* Skill */
@@ -461,6 +467,7 @@ li{
    }
 
    #Workspic-smartphone{
+    text-align: center;
     display: block;
    }
 
@@ -468,6 +475,21 @@ li{
     display: none;
    }
 
+   .example{
+    flex-direction: column;
+   }
+
+   .sawayaka{
+    margin: 30px auto;
+   }
+
+   .portfolioex{
+    margin: 30px auto;
+   }
+
+   .Interiorshopsite{
+    margin: 30px auto;
+   }
 
    .sp_br {
     display: block;
